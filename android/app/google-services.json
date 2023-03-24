@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "844377052436",
+    "project_id": "absensi-829ae",
+    "storage_bucket": "absensi-829ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844377052436:android:e982f0f838df9715455e01",
+        "android_client_info": {
+          "package_name": "com.presensi.flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844377052436-po2en9i6llkds2oe0galb9lqi7inhd3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4foteYijKdMNOZzoZFE9zpueG9ZzD_vM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844377052436-po2en9i6llkds2oe0galb9lqi7inhd3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
